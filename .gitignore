@@ -218,6 +218,11 @@ PublishScripts/
 csx/
 *.build.csdef
 
+# SQLite local database
+*.db
+*.db-shm
+*.db-wal
+
 # Microsoft Azure Emulator
 ecf/
 rcf/
